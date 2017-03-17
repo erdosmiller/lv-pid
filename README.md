@@ -1,7 +1,7 @@
 LV-PID
 =================
 
-LV-PID is an open source LabVIEW library that provides a simple PID with selectable integrator anti-windup.
+LV-PID is an open source LabVIEW library that provides a simple PID with selectable integrator anti-windup method.
 
 Installation
 ------------
