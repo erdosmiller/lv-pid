@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-03-17 13:40:10" Modified_Date="2017-03-17 14:03:34" Creator="David Taylor" Comments="" ID="7964d44589c8671c0ee57659a73674b1">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-03-17 13:40:10" Modified_Date="2017-05-05 11:01:15" Creator="David Taylor" Comments="" ID="99e6cbdc10752755296cf827c2ff6b19">
   <Library_General_Settings>
     <Package_File_Name>LV_PID</Package_File_Name>
-    <Library_Version>0.0.0.3</Library_Version>
+    <Library_Version>0.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
-    <Library_Output_Folder>..</Library_Output_Folder>
+    <Library_Output_Folder>..\..\builds\lv-pid</Library_Output_Folder>
     <Company_Name>Erdos Miller</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -258,7 +258,7 @@
         <Path>..\source\library\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AA201A6A8EE39497EE3B87C10086699F</GUID>
+      <GUID>737D8C1A5D2BD41162FDD13A9D940F36</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
