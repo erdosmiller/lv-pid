@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-03-17 13:40:10" Modified_Date="2017-05-05 11:01:15" Creator="David Taylor" Comments="" ID="99e6cbdc10752755296cf827c2ff6b19">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-03-17 13:40:10" Modified_Date="2017-06-02 11:10:29" Creator="David Taylor" Comments="" ID="8157ba567d00144eba5e35c496e25e70">
   <Library_General_Settings>
     <Package_File_Name>LV_PID</Package_File_Name>
-    <Library_Version>0.1.0.2</Library_Version>
+    <Library_Version>0.2.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\lv-pid</Library_Output_Folder>
@@ -88,6 +88,11 @@
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path/>
       </Project_Provider>
+      <QuickDrop_Plugins>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </QuickDrop_Plugins>
     </Destinations>
     <Source_Files>
       <Destination_Overrides>
@@ -258,7 +263,7 @@
         <Path>..\source\library\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>737D8C1A5D2BD41162FDD13A9D940F36</GUID>
+      <GUID>4CEDC1AB04AECE77B84011FC50C8A99C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
